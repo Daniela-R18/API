@@ -1,1 +1,1 @@
-# EJEMPLITO
+# Proyecto demo Básico en Python
